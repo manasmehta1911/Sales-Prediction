@@ -3,12 +3,12 @@ Sales Prediction - Machine Learning Project
 This project focuses on building and evaluating machine learning models to predict sales based on given features. It involves feature selection, data preparation, model training, and performance evaluation.
 
 - **To install dependencies**
-pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 
 Project Workflow
 
--**Feature Selection**
+- **Feature Selection**
   - Conducted correlation analysis to eliminate irrelevant features.
 
 - **Data Preparation**
